@@ -1,0 +1,8 @@
+# Force Calculator (Newton's Second Law)
+
+m = float(input("Enter mass (kg): "))
+a = float(input("Enter acceleration (m/s^2): "))
+
+force = m * a
+
+print("Force =", force, "N")
