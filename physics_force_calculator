@@ -1,3 +1,8 @@
+# Newton's First Law - Inertia
+# Newton's Second Law - F=m*a
+# Newton's Third Law - every action has an equal and opposite reaction
+
+
 # Force Calculator (Newton's Second Law)
 
 m = float(input("Enter mass (kg): "))
