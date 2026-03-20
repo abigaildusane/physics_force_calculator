@@ -11,3 +11,9 @@ a = float(input("Enter acceleration (m/s^2): "))
 force = m * a
 
 print("Force =", force, "N")
+
+
+print ("Choose a Newtons' Law:")
+print ("1. Newton's First Law)
+print ("2. Newton's Second Law")
+print ("3. Newton's Third Law")
